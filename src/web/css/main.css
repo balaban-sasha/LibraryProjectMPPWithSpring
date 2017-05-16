@@ -1,0 +1,48 @@
+.author_list > div {
+    display: inline-block;
+    padding: 0 20px 0 20px;
+}
+
+#user_login, #user_password {
+    max-width: 90px;
+}
+
+.navbar-nav > li, .navbar-nav > div {
+    display: inline-block !important;
+}
+
+.navbar-nav > .form-group {
+    margin-bottom: -21px !important;
+}
+
+.navbar-nav > .form-group > .navbar-brand {
+    cursor: pointer !important;
+}
+
+.news-block {
+    width: 100% !important;
+}
+
+.container > .pagination-display {
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+
+.col-md-4 {
+    word-wrap: break-word;
+}
+
+.user-name {
+    font-size: 25px !important;
+    color: blanchedalmond !important;;
+
+}
+
+.user-name:hover {
+    color: white !important;
+    cursor: pointer !important;
+}
+
+
+
